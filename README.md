@@ -11,7 +11,7 @@
 
 First, run the command below to start zookeeper and kafka
 ```bash
-docker-compose up
+docker-compose up -d
 ```
 
 To start a producer
